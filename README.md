@@ -3,7 +3,7 @@
 
 #### Click demo to try it by yourself!
 
-#### You can view the site here [Click Me](https://html-and-css-training-6.netlify.app/)
+#### You can view the site here [Click Me](https://html-and-css-training-4.web.app/)
 
 #### The website I'm trying to clone while doing the project [Click Me](https://www.youtube.com/watch?v=YnGO8kJAEqE)
 # Topics
